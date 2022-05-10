@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Younes BAALI</h1>
-<h3 align="center">A passionate Junior Front-End developer</h3>
+<h3 align="center">A passionate Junior Full-stack developer</h3>
 
 - 🔭 I’m currently working on **a React Native App**
 
