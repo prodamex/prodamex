@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, js..**
 
-- 📫 How to reach me **https://younesb.fr/**
+-  👾 Visit my website **https://younesb.fr/**
 
 - 📄 Know about my experiences [https://www.younesb.fr/CV.pdf](https://www.younesb.fr/CV.pdf)
 
