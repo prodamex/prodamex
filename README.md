@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a React Native App**
 
-- 🌱 I’m currently learning **JS Frameworks**
+- 🌱 I’m currently learning more on **React Native**
 
-- 💬 Ask me about **react, js..**
+- 💬 Ask me about **JS, Springboot, Java, React..**
 
 -  👾 Visit my website **https://younesb.fr/**
 
