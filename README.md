@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Younes BAALI</h1>
 <h3 align="center">A passionate Junior Full-stack developer</h3>
 
-- 🔭 I’m currently working on **a React Native App**
+- 🔭 I’m currently working on **a E-commerce website**
 
-- 🌱 I’m currently learning more on **React Native**
+- 👀 I’m currently learning more on **Facebook ads**
 
-- 💬 Ask me about **JS, Springboot, Java, React..**
+- ❓ Ask me about **JS, Java, React, Wordpress, SEO, Digital marketing..**
 
 -  👾 Visit my website **https://younesb.fr/**
 
