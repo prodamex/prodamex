@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Younes BAALI</h1>
+<h1 align="center">Hi 👋, I'm Younes B</h1>
 <h3 align="center">A passionate Junior Full-stack developer</h3>
 
 - 🔭 I’m currently working on **a E-commerce website**
